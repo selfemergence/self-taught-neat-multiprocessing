@@ -1,0 +1,6 @@
+*~
+*.pyc
+tmp
+logs/
+mario*nes
+Mario*nes

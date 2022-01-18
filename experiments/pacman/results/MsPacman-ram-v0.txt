@@ -1,0 +1,3 @@
+# Fitness: Best, Avg, Worst
+110	100	90
+110	100	90
